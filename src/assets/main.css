@@ -1,0 +1,18 @@
+@import "tailwindcss";
+:root {
+  font-weight: bold;
+}
+button{
+  font-size: 24px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 4px 14px;
+}
+@theme {
+  --color-navdark: #2f2f2f;
+  --color-navgray: #e1e1e1;
+  --color-gray: #dcdcdc;
+  --color-dark: #313131;
+  --color-primarycolor: #0099dc;
+  --color-yellow: #ffd800;
+}
